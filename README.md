@@ -5,3 +5,6 @@
 
 ## Project Charter
 Centralized cataloging, automated book circulation, barcode scanning, and overdue fine computation for campus libraries.
+
+### Features Added
+- Automated Loan Renewal Eligibility Service (`src/renewal_service.py`).
